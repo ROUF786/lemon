@@ -1,0 +1,7 @@
+{
+  "_help": "Optional. Naam = photo file ka naam. Har variety ke liye badal sakte ho: tagline, badge, order (number, chhota = pehle), hide (true = slider se hatao), bg (background colour - sirf transparent PNG ke liye). Jo cheez nahi chahiye, woh line hata do. Badalne ke baad update-lemons.bat chalao.",
+  "Kagzi": {
+    "tagline": "Paper-thin skin. All juice.",
+    "badge": "GI-tagged Indi lime"
+  }
+}

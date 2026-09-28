@@ -1,0 +1,19 @@
+{
+  "name": "bagawan-brothers-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bagawan Brothers lemon website. Add photos to the Image folder, then double-click update-lemons.bat.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/bricolage-grotesque": "5.3.0",
+    "@fontsource/instrument-serif": "5.3.0",
+    "sharp": "0.34.5"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}
